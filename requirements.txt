@@ -3,6 +3,6 @@ scikit-learn
 pandas
 joblib
 numpy
-ppenpyxl
-matplotlib
+openpyxl
+matplotlib==3.5.2
 
